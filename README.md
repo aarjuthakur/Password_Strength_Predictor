@@ -1,8 +1,9 @@
-#Password_Strength_Predictor#
---> This project uses machine learning to predict the strength of passwords. It classifies passwords as Weak, Medium, or Strong based on various features such as length, character diversity, and inclusion of numbers and special characters.
-##📁 Project Overview
+# Password_Strength_Predictor
 
--->The notebook password_strength.ipynb contains:
+*--> This project uses machine learning to predict the strength of passwords. It classifies passwords as Weak, Medium, or Strong based on various features such as length, character diversity, and inclusion of numbers and special characters.
+
+# 📁 Project Overview
+*-->The notebook password_strength.ipynb contains:
 
 📊 Data Exploration: Visualization and analysis of password features.
 
@@ -12,7 +13,7 @@
 
 ✅ Evaluation: Accuracy scores and classification reports.
 
-##🔧 Technologies Used
+# 🔧 Technologies Used
 
 -->Python
 
@@ -23,12 +24,12 @@
 -->matplotlib / seaborn
 
 
-##📌 Features
+# 📌 Features
 Automatically detects and scores password strength.
 
 Extracts character-based and statistical features.
 
 Uses supervised machine learning models to predict strength level.
 
-##📈 Results
+# 📈 Results
 The notebook includes accuracy results and classification reports, showing the performance of each model. The best-performing model can be saved and used for future predictions.
